@@ -1,0 +1,3 @@
+in\reqres\testbase\TestBase.class
+in\reqres\cucumber\steps\ReqresStepsDef.class
+in\reqres\cucumber\CucumberRunner.class
